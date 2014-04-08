@@ -1,9 +1,9 @@
 task :default => [:build]
 
-task :build => [:makecss, :makejs] do
+task :build do
     system("jekyll --no-server")
 end
 
-task :dev => [:makecss, :makejs] do
+task :dev do
     system("jekyll --server --auto")
 end
