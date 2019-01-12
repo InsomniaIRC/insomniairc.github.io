@@ -23,6 +23,6 @@ We're not quite sure where jonbo came from.
 # Weyoun
 Email: <weyoun@insomniairc.net>
 
-Weyoun, who goes by many names, runs [Euclid](servers.html).
+Weyoun, who goes by many names, runs [Leibniz](servers.html).
 
 
